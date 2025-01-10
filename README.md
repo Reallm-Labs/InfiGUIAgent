@@ -4,7 +4,7 @@
 InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection
 </h1>
 
-This is the repo for the paper [InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection](https://huggingface.co/papers/2501.04575). In this work, we develop a multimodal large language model-based GUI agent that enables enhanced task automation on computing devices. Our agent is trained through a two-stage supervised fine-tuning approach that focuses on fundamental GUI understanding skills and advanced reasoning capabilities, where we integrate hierarchical reasoning and expectation-reflection reasoning to enable native reasoning abilities in GUI interactions.
+This is the repo for the paper "[InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection](https://huggingface.co/papers/2501.04575)". In this work, we develop a multimodal large language model-based GUI agent that enables enhanced task automation on computing devices. Our agent is trained through a two-stage supervised fine-tuning approach that focuses on fundamental GUI understanding skills and advanced reasoning capabilities, where we integrate hierarchical reasoning and expectation-reflection reasoning to enable native reasoning abilities in GUI interactions.
 
 ## 🔥  News
 - 🔥[2025/1/9] Our paper "[InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection](https://arxiv.org/abs/2501.04575)" released.
